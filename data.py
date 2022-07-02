@@ -56,7 +56,7 @@ def get_track_features(id):
 
 # Write instructions for app
 st.title("Download your own Spotify data!")
-st.markdown("This simple app allows you to download Spotify features of songs. In order to obtain data, you must have a **Spotify playlist**. Songs must be available on Spotify to work. Once you have obtained your own data, you can upload it in the [Spotify Features Visualizer App](https://johncarlomaula-spotify-features-visualizer-project-app-05gizn.streamlitapp.com/).")
+st.markdown("This simple app allows you to download Spotify features of songs. In order to obtain data, you must have a **Spotify playlist**. Songs must be available on Spotify to work. Once you have obtained your own data, you can upload it in the [Spotify Features Visualizer App](https://johncarlomaula-spotify-features-visualizer-app-app-0l4de8.streamlitapp.com/).")
 st.markdown("#### Instructions: ")
 st.markdown("1. Create a Spotify playlist of your desired tracks (**maximum 100**). If you have more than 100 songs, split them up into multiple playlists. **Tip:** Avoid having duplicate songs in your playlists.")
 st.markdown("2. Copy the **playlist ID** from the playlist URL. For example, in the playlist URL `https://open.spotify.com/playlist/5fp6s3NHdwxMj3H6P9zyBF`, the ID is **5fp6s3NHdwxMj3H6P9zyBF**.")

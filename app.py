@@ -31,7 +31,7 @@ DATASETS = {"Adele": df_adele,
 st.title("Spotify Features Visualizer")
 st.markdown("This web app allows you to visualize your Spotify music data.")
 st.markdown("#### Instructions: ")
-st.markdown("1. Upload your own data or select one from the available example datasets. If you would like to obtain your own data, you can do so [here](https://johncarlomaula-spotify-features-visualizer-project-data-mve406.streamlitapp.com/).")
+st.markdown("1. Upload your own data or select one from the available example datasets. If you would like to obtain your own data, you can do so [here](https://johncarlomaula-spotify-features-visualizer-app-data-1jc4l8.streamlitapp.com/).")
 st.markdown("2. Select what kind of visualization you would like to use. For polar charts, the data has been scaled to values between 0 and 1.")
 st.markdown("3. All plots are produced using Plotly and are interactive. You can save plots, zoom in/out, filter categories, and view them in full screen.")
 st.markdown("4. You can view the code on [Github](https://github.com/johncarlomaula/spotify-features-visualizer-project) and provide feedback if you'd like!")
