@@ -1,0 +1,221 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence
+0,Sand In My Boots,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,202133,59,0.403,0.59,0.537,0.0,0.112,-6.628,0.031,69.877,4,0.414
+1,Wasted On You,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,178520,61,0.505,0.373,0.657,0.00107,0.126,-5.24,0.0318,196.0,3,0.252
+2,Somebody's Problem,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,161773,60,0.658,0.657,0.538,0.0,0.123,-7.676,0.0289,136.967,4,0.62
+3,More Surprised Than Me,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,157440,59,0.516,0.241,0.748,0.0,0.123,-6.049,0.0289,85.004,4,0.433
+4,865,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,190680,61,0.532,0.723,0.584,0.0,0.101,-5.254,0.0248,88.003,4,0.367
+5,Warning,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,156746,60,0.633,0.46,0.664,0.0,0.108,-5.037,0.0294,115.058,4,0.268
+6,Neon Eyes,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,226146,57,0.576,0.0214,0.843,8.04e-05,0.157,-5.26,0.029,126.009,4,0.628
+7,Outlaw (feat. Ben Burgess),Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,229746,58,0.505,0.572,0.63,0.0,0.121,-5.758,0.0274,85.036,4,0.247
+8,Whiskey'd My Way,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,180786,58,0.443,0.603,0.518,0.00225,0.0984,-6.373,0.0266,185.764,3,0.323
+9,Wonderin' Bout The Wind,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,182226,56,0.481,0.244,0.715,0.0,0.133,-5.626,0.0334,90.966,4,0.395
+10,Your Bartender,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,185093,59,0.555,0.247,0.771,7.26e-05,0.149,-5.237,0.0282,139.971,4,0.442
+11,Only Thing That's Gone (feat. Chris Stapleton),Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,196706,56,0.5,0.11,0.803,2.12e-05,0.296,-4.591,0.032,150.058,4,0.451
+12,Cover Me Up,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,293706,57,0.549,0.232,0.44,7.37e-06,0.107,-8.192,0.0264,128.01,3,0.214
+13,7 Summers,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,210506,57,0.466,0.417,0.786,6.1e-05,0.125,-5.13,0.0328,203.903,4,0.571
+14,More Than My Hometown,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,216573,56,0.62,0.615,0.869,0.0,0.131,-5.479,0.0462,126.019,4,0.597
+15,Still Goin Down,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,186293,56,0.58,0.49,0.752,0.0,0.277,-5.078,0.0267,148.108,4,0.72
+16,"Rednecks, Red Letters, Red Dirt",Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,185133,54,0.554,0.16,0.752,1.4e-06,0.122,-4.286,0.0249,140.042,4,0.616
+17,Dangerous,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,147893,60,0.635,0.216,0.772,0.0,0.285,-4.825,0.0279,119.017,4,0.948
+18,Beer Don't,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,196080,54,0.59,0.0651,0.855,0.0,0.11,-4.562,0.0358,140.008,4,0.766
+19,Blame It On Me,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,162666,57,0.63,0.541,0.836,0.0,0.312,-4.591,0.0438,92.98,4,0.818
+20,Somethin' Country,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,172626,53,0.6,0.169,0.942,0.0,0.29,-4.441,0.0402,145.981,4,0.741
+21,This Bar,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,185280,55,0.553,0.0921,0.884,0.00033,0.0463,-5.306,0.0771,110.074,4,0.248
+22,Country A$$ Shit,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,186186,54,0.619,0.0192,0.927,0.0,0.138,-3.765,0.0346,137.975,4,0.928
+23,Whatcha Think Of Country Now,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,182426,52,0.523,0.0215,0.966,0.0,0.322,-4.356,0.0355,145.016,4,0.884
+24,Me On Whiskey,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,210373,55,0.57,0.431,0.657,0.0,0.0777,-4.571,0.0262,142.031,4,0.721
+25,Need A Boat,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,185866,53,0.54,0.0998,0.896,0.0,0.267,-6.286,0.0333,160.034,4,0.963
+26,Silverado For Sale,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,224920,56,0.591,0.165,0.778,0.0,0.115,-5.927,0.0292,137.956,4,0.386
+27,Heartless - Wallen Album Mix,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,169613,54,0.61,0.662,0.641,0.0,0.17,-4.423,0.0289,111.001,4,0.494
+28,Livin' The Dream,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,239120,55,0.621,0.581,0.753,0.00605,0.215,-5.904,0.0271,127.035,4,0.438
+29,Quittin' Time,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,224546,54,0.418,0.461,0.628,1.99e-06,0.186,-8.493,0.0354,83.926,4,0.462
+30,This Side Of A Dust Cloud - Bonus,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,199946,69,0.645,0.139,0.734,0.000833,0.159,-5.892,0.0266,133.989,4,0.797
+31,Bandaid On A Bullet Hole - Bonus,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,234333,73,0.543,0.794,0.48,0.0,0.119,-6.745,0.0301,154.78,3,0.391
+32,Sand In My Boots (The Dangerous Sessions) - Bonus,Dangerous: The Double Album (Bonus),Morgan Wallen,2021-01-29,196800,60,0.411,0.93,0.273,0.0,0.118,-8.878,0.0312,140.137,4,0.474
+33,brutal,SOUR,Olivia Rodrigo,2021-05-21,143746,82,0.672,0.0311,0.526,1.37e-06,0.28,-6.446,0.0599,123.999,4,0.28
+34,traitor,SOUR,Olivia Rodrigo,2021-05-21,229226,90,0.38,0.691,0.339,0.0,0.12,-7.885,0.0338,100.607,4,0.0849
+35,drivers license,SOUR,Olivia Rodrigo,2021-05-21,242013,89,0.561,0.768,0.431,1.42e-05,0.106,-8.81,0.0578,143.875,4,0.137
+36,"1 step forward, 3 steps back",SOUR,Olivia Rodrigo,2021-05-21,163586,80,0.473,0.941,0.203,0.0,0.126,-12.627,0.102,168.884,4,0.419
+37,deja vu,SOUR,Olivia Rodrigo,2021-05-21,215506,88,0.442,0.584,0.612,5.7e-06,0.37,-7.222,0.112,180.917,4,0.178
+38,good 4 u,SOUR,Olivia Rodrigo,2021-05-21,178146,91,0.563,0.335,0.664,0.0,0.0849,-5.044,0.154,166.928,4,0.688
+39,enough for you,SOUR,Olivia Rodrigo,2021-05-21,202826,80,0.638,0.753,0.259,0.0,0.219,-10.706,0.0898,88.485,4,0.269
+40,happier,SOUR,Olivia Rodrigo,2021-05-21,175933,86,0.395,0.765,0.443,9.67e-06,0.0839,-9.72,0.133,168.924,3,0.338
+41,"jealousy, jealousy",SOUR,Olivia Rodrigo,2021-05-21,173160,86,0.695,0.198,0.575,0.0,0.0614,-6.334,0.116,163.929,4,0.699
+42,favorite crime,SOUR,Olivia Rodrigo,2021-05-21,152666,86,0.369,0.866,0.272,0.0,0.147,-10.497,0.0364,172.929,4,0.218
+43,hope ur ok,SOUR,Olivia Rodrigo,2021-05-21,209560,78,0.443,0.388,0.298,1e-05,0.103,-12.181,0.0644,77.253,4,0.172
+44,Bad Bitch From Tokyo (Intro),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,48000,49,0.645,0.395,0.64,1.04e-05,0.286,-6.871,0.179,140.248,4,0.674
+45,Aim For The Moon (feat. Quavo),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,175756,56,0.713,0.497,0.605,3.46e-06,0.115,-7.487,0.107,142.025,4,0.432
+46,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,190476,57,0.823,0.114,0.586,0.0,0.193,-6.606,0.2,125.971,4,0.347
+47,44 BullDog,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,150857,54,0.8,0.0287,0.564,1.65e-06,0.112,-5.817,0.4,139.989,4,0.318
+48,Gangstas,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,160000,55,0.548,0.203,0.506,0.0001,0.0788,-7.434,0.102,119.987,5,0.557
+49,Yea Yea,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,185803,50,0.717,0.0509,0.474,0.0,0.139,-8.383,0.403,123.906,4,0.448
+50,Creature (feat. Swae Lee),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,202815,49,0.794,0.0511,0.717,0.0,0.195,-5.73,0.251,141.881,4,0.372
+51,Snitching (feat. Quavo & Future),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,259346,47,0.944,0.0381,0.579,0.0,0.253,-4.961,0.191,135.033,4,0.769
+52,Make It Rain (feat. Rowdy Rebel),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,202443,51,0.5,0.162,0.767,9.79e-05,0.385,-4.105,0.403,159.477,4,0.58
+53,The Woo (feat. 50 Cent & Roddy Ricch),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,201600,55,0.49,0.0221,0.618,3.77e-06,0.259,-5.655,0.104,99.7,4,0.286
+54,West Coast Shit (feat. Tyga & Quavo),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,192000,49,0.831,0.0885,0.762,0.0,0.107,-5.656,0.207,99.999,4,0.495
+55,Enjoy Yourself (feat. Karol G),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,197938,52,0.764,0.389,0.676,0.0,0.215,-6.761,0.0927,97.02,4,0.461
+56,Mood Swings (feat. Lil Tjay),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,213333,53,0.48,0.487,0.602,0.0,0.0848,-6.335,0.368,179.798,4,0.269
+57,Something Special,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,158466,53,0.739,0.252,0.616,1.93e-06,0.101,-6.963,0.0338,91.071,4,0.654
+58,What You Know Bout Love,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,160000,53,0.709,0.65,0.548,1.59e-06,0.133,-8.493,0.353,83.995,4,0.543
+59,Diana (feat. King Combs),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,188976,47,0.794,0.22,0.792,0.0,0.0998,-6.889,0.186,126.994,4,0.546
+60,Got It On Me,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,164579,57,0.688,0.00815,0.647,1.65e-05,0.095,-7.258,0.19,88.834,4,0.195
+61,Tunnel Vision (Outro),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,132587,48,0.718,0.363,0.66,0.0,0.159,-7.39,0.325,142.879,4,0.659
+62,Dior - Bonus,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,216243,54,0.676,0.0893,0.746,0.00157,0.412,-7.837,0.344,142.035,4,0.675
+63,Hotel Lobby,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,151011,65,0.688,0.198,0.61,0.00154,0.114,-6.79,0.109,88.995,4,0.201
+64,Showin Off Pt.1 (feat. Fivio Foreign),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,96040,51,0.877,0.148,0.656,0.0,0.16,-5.823,0.417,139.883,4,0.535
+65,Showin Off Pt.2 (feat. Fivio Foreign),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,192000,53,0.658,0.245,0.769,2.15e-06,0.313,-5.16,0.279,140.042,4,0.611
+66,Iced Out Audemars (feat. Dafi Woo),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,182535,51,0.789,0.0526,0.777,0.0,0.453,-5.69,0.132,142.109,4,0.935
+67,Woo Year (feat. Dread Woo),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,181714,49,0.792,0.0957,0.708,4.87e-05,0.333,-5.166,0.0738,140.074,4,0.444
+68,Tsunami (feat. Davido),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,208695,48,0.696,0.166,0.618,0.0,0.108,-6.696,0.197,115.019,4,0.812
+69,Backseat (feat. PnB Rock),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,170669,65,0.704,0.577,0.542,0.0,0.118,-6.277,0.0326,89.982,4,0.371
+70,Imperfections (Interlude),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,108131,69,0.774,0.907,0.513,0.0,0.11,-5.024,0.0778,91.03,4,0.324
+71,She Feelin Nice (feat. Jamie Foxx),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,155277,55,0.791,0.319,0.795,0.186,0.0864,-4.792,0.146,108.004,4,0.776
+72,Paranoia (feat. Gunna & Young Thug),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,212658,66,0.568,0.231,0.646,0.0,0.12,-4.369,0.219,143.877,1,0.24
+73,Hello (feat. A Boogie Wit da Hoodie),Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,190534,79,0.905,0.0187,0.647,0.0,0.282,-5.065,0.107,130.97,4,0.367
+74,Be Clearr,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,202285,52,0.703,0.0226,0.754,0.000744,0.201,-7.103,0.136,140.101,4,0.57
+75,Yea Yea (feat. Queen Naija) - Remix,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,216774,48,0.544,0.0575,0.484,0.0,0.139,-7.269,0.411,120.24,4,0.413
+76,Diana (feat. King Combs & Calboy) - Remix,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,234330,47,0.796,0.246,0.792,0.0,0.101,-5.616,0.184,126.991,4,0.56
+77,Enjoy Yourself (feat. Burna Boy) - Remix,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,2020-07-20,197938,60,0.773,0.454,0.688,0.0,0.214,-6.935,0.146,96.955,4,0.441
+78,willow,evermore (deluxe version),Taylor Swift,2021-01-07,214706,65,0.392,0.833,0.574,0.00179,0.145,-9.195,0.17,81.112,4,0.529
+79,champagne problems,evermore (deluxe version),Taylor Swift,2021-01-07,244000,67,0.462,0.92,0.24,0.0,0.113,-12.077,0.0377,171.319,4,0.32
+80,gold rush,evermore (deluxe version),Taylor Swift,2021-01-07,185320,64,0.512,0.83,0.462,0.166,0.121,-10.491,0.0408,112.05,4,0.353
+81,‘tis the damn season,evermore (deluxe version),Taylor Swift,2021-01-07,229840,63,0.575,0.735,0.434,6.59e-05,0.105,-8.193,0.0312,145.916,4,0.348
+82,tolerate it,evermore (deluxe version),Taylor Swift,2021-01-07,245440,63,0.316,0.878,0.361,2.67e-05,0.0797,-10.381,0.0488,74.952,5,0.221
+83,"no body, no crime (feat. HAIM)",evermore (deluxe version),Taylor Swift,2021-01-07,215626,63,0.546,0.418,0.613,0.0,0.103,-7.589,0.0264,79.015,4,0.535
+84,happiness,evermore (deluxe version),Taylor Swift,2021-01-07,315146,62,0.559,0.87,0.334,0.0,0.114,-10.733,0.0376,122.079,4,0.211
+85,dorothea,evermore (deluxe version),Taylor Swift,2021-01-07,225880,61,0.605,0.696,0.488,0.0,0.129,-8.322,0.0264,119.966,4,0.354
+86,coney island (feat. The National),evermore (deluxe version),Taylor Swift,2021-01-07,275320,62,0.537,0.819,0.537,0.000904,0.142,-11.266,0.0617,107.895,4,0.292
+87,ivy,evermore (deluxe version),Taylor Swift,2021-01-07,260440,63,0.515,0.855,0.545,1.97e-05,0.0921,-9.277,0.0353,88.856,4,0.535
+88,cowboy like me,evermore (deluxe version),Taylor Swift,2021-01-07,275040,62,0.604,0.768,0.517,0.000155,0.123,-9.014,0.0347,127.967,4,0.511
+89,long story short,evermore (deluxe version),Taylor Swift,2021-01-07,215920,62,0.546,0.66,0.73,0.179,0.0972,-7.704,0.0417,157.895,4,0.573
+90,marjorie,evermore (deluxe version),Taylor Swift,2021-01-07,257773,61,0.535,0.876,0.561,0.000136,0.115,-11.609,0.0484,96.103,4,0.287
+91,closure,evermore (deluxe version),Taylor Swift,2021-01-07,180653,59,0.689,0.835,0.704,4.83e-06,0.134,-10.813,0.245,151.884,5,0.92
+92,evermore (feat. Bon Iver),evermore (deluxe version),Taylor Swift,2021-01-07,304106,62,0.39,0.937,0.27,0.00227,0.111,-10.673,0.0308,125.177,5,0.32
+93,right where you left me - bonus track,evermore (deluxe version),Taylor Swift,2021-01-07,245026,76,0.581,0.769,0.619,0.000106,0.117,-6.524,0.0282,137.915,4,0.645
+94,it's time to go - bonus track,evermore (deluxe version),Taylor Swift,2021-01-07,254640,66,0.592,0.801,0.41,1.39e-05,0.09,-12.426,0.0397,151.923,4,0.416
+95,Champagne Poetry,Certified Lover Boy,Drake,2021-09-03,336511,78,0.423,0.758,0.667,0.0,0.246,-7.012,0.326,86.743,4,0.496
+96,Papi's Home,Certified Lover Boy,Drake,2021-09-03,178623,72,0.701,0.112,0.741,0.0,0.699,-6.157,0.313,140.177,4,0.588
+97,Girls Want Girls (with Lil Baby),Certified Lover Boy,Drake,2021-09-03,221979,81,0.767,0.181,0.438,0.0,0.142,-8.726,0.29,86.975,4,0.381
+98,In The Bible (with Lil Durk & Giveon),Certified Lover Boy,Drake,2021-09-03,296568,73,0.686,0.614,0.385,0.0,0.131,-8.35,0.297,143.07,4,0.147
+99,Love All (with JAY-Z),Certified Lover Boy,Drake,2021-09-03,228461,73,0.73,0.354,0.576,3.59e-05,0.15,-5.442,0.287,92.131,4,0.155
+100,Fair Trade (with Travis Scott),Certified Lover Boy,Drake,2021-09-03,291175,85,0.666,0.0503,0.465,0.0,0.215,-8.545,0.26,167.937,4,0.292
+101,Way 2 Sexy (with Future & Young Thug),Certified Lover Boy,Drake,2021-09-03,257604,83,0.803,0.000619,0.597,4.5e-06,0.323,-6.035,0.141,136.008,4,0.331
+102,TSU,Certified Lover Boy,Drake,2021-09-03,308755,74,0.568,0.228,0.56,3.05e-06,0.39,-9.059,0.42,130.019,4,0.246
+103,N 2 Deep,Certified Lover Boy,Drake,2021-09-03,273577,71,0.507,0.0518,0.429,0.0,0.109,-7.726,0.326,91.0,3,0.0744
+104,Pipe Down,Certified Lover Boy,Drake,2021-09-03,205721,72,0.518,0.128,0.69,0.0,0.176,-6.15,0.107,77.837,4,0.59
+105,Yebba's Heartbreak,Certified Lover Boy,Drake,2021-09-03,133762,78,0.476,0.967,0.161,0.0381,0.109,-11.665,0.0407,119.614,4,0.0908
+106,No Friends In The Industry,Certified Lover Boy,Drake,2021-09-03,204346,75,0.84,0.0181,0.744,0.0,0.629,-4.751,0.113,83.737,4,0.171
+107,Knife Talk (with 21 Savage ft. Project Pat),Certified Lover Boy,Drake,2021-09-03,242965,85,0.849,0.0635,0.424,0.0,0.0834,-9.579,0.324,145.887,4,0.153
+108,7am On Bridle Path,Certified Lover Boy,Drake,2021-09-03,239635,67,0.724,0.225,0.531,0.0,0.11,-4.108,0.298,89.901,4,0.141
+109,Race My Mind,Certified Lover Boy,Drake,2021-09-03,269883,70,0.488,0.179,0.635,8.16e-06,0.156,-7.19,0.26,174.072,4,0.783
+110,Fountains (with Tems),Certified Lover Boy,Drake,2021-09-03,192417,73,0.843,0.181,0.485,0.0675,0.107,-8.735,0.195,100.053,4,0.689
+111,Get Along Better,Certified Lover Boy,Drake,2021-09-03,229303,68,0.32,0.00645,0.466,0.0,0.133,-6.77,0.0374,177.693,3,0.338
+112,You Only Live Twice (with Lil Wayne & Rick Ross),Certified Lover Boy,Drake,2021-09-03,213103,68,0.519,0.118,0.851,0.0,0.178,-6.001,0.29,123.823,5,0.711
+113,IMY2 (with Kid Cudi),Certified Lover Boy,Drake,2021-09-03,252378,72,0.59,0.402,0.493,0.00504,0.129,-8.704,0.0367,150.026,4,0.0498
+114,F*****g Fans,Certified Lover Boy,Drake,2021-09-03,245131,66,0.783,0.213,0.416,0.0,0.103,-9.84,0.135,87.073,4,0.165
+115,The Remorse,Certified Lover Boy,Drake,2021-09-03,351220,63,0.473,0.812,0.53,6.92e-06,0.227,-8.506,0.249,74.732,3,0.637
+116,PIKACHU,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,133723,61,0.747,0.0662,0.487,0.0,0.36,-7.064,0.125,92.978,4,0.248
+117,SO DONE,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,126521,66,0.719,0.232,0.598,0.0,0.115,-6.254,0.077,142.592,4,0.303
+118,TRAGIC (feat. Youngboy Never Broke Again & Internet Money),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,153147,73,0.779,0.0383,0.642,0.0,0.2,-6.321,0.116,82.363,4,0.388
+119,ALWAYS DO,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,151704,73,0.762,0.0442,0.426,0.0,0.0858,-6.865,0.113,167.827,4,0.582
+120,FEEL SOMETHING (feat. Marshmello),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,139040,68,0.523,0.059,0.609,0.0,0.14,-7.802,0.191,154.051,4,0.374
+121,"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,144860,74,0.721,0.0693,0.632,0.0,0.291,-6.695,0.0358,92.057,4,0.296
+122,WITHOUT YOU,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,161384,81,0.662,0.213,0.413,0.0,0.134,-7.357,0.0299,93.005,4,0.467
+123,BOOTY CALL (skit),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,56808,46,0.773,0.978,0.398,0.0,0.413,-11.494,0.871,56.284,3,0.556
+124,MAYBE,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,174182,55,0.606,0.00556,0.533,0.0,0.292,-4.833,0.077,89.079,4,0.156
+125,WRONG (feat. Lil Mosey),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,183567,55,0.389,0.038,0.768,0.0,0.119,-4.765,0.256,90.146,4,0.334
+126,I WISH,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,125571,53,0.788,0.0375,0.656,0.0,0.127,-6.974,0.047,138.981,4,0.549
+127,NOT FAIR (feat. Corbin),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,166688,55,0.412,0.468,0.657,0.0,0.318,-5.535,0.124,76.342,4,0.625
+128,BATHROOM (skit),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,24939,5,0.8,0.94,0.743,0.0,0.774,-9.05,0.912,116.899,5,0.593
+129,GO (feat. Juice WRLD),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,181688,56,0.487,0.157,0.74,0.0,0.612,-4.973,0.0944,73.779,4,0.522
+130,TELL ME WHY,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,195268,54,0.6,0.109,0.723,0.0,0.167,-4.928,0.158,149.881,4,0.463
+131,SAME THING,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,124589,53,0.662,0.0225,0.659,0.0,0.107,-4.642,0.155,135.95,5,0.363
+132,NEW GUY (skit),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,21937,4,0.766,0.977,0.363,9.1e-06,0.575,-12.35,0.949,85.494,4,0.0529
+133,ERASE U,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,109094,54,0.75,0.0458,0.641,0.0,0.193,-5.134,0.0353,144.988,4,0.743
+134,RUNNING,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,135241,51,0.438,0.377,0.585,0.0,0.13,-5.425,0.0908,100.834,4,0.313
+135,WISH YOU WELL (skit),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,35300,43,0.619,0.955,0.256,0.0,0.596,-12.522,0.538,170.572,3,0.656
+136,NEED YOU MOST (So Sick),F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,135227,55,0.63,0.0681,0.707,0.0,0.284,-3.632,0.0508,86.849,4,0.285
+137,SELFISH,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,196202,54,0.373,0.166,0.539,0.0,0.139,-4.865,0.086,77.006,1,0.075
+138,Beer Never Broke My Heart,What You See Is What You Get,Luke Combs,2019-11-08,186733,78,0.538,0.0139,0.863,0.0,0.0874,-4.483,0.0481,77.001,4,0.637
+139,Refrigerator Door,What You See Is What You Get,Luke Combs,2019-11-08,204240,64,0.459,0.011,0.864,3.36e-06,0.314,-4.397,0.059,74.867,4,0.623
+140,Even Though I'm Leaving,What You See Is What You Get,Luke Combs,2019-11-08,225253,70,0.554,0.225,0.755,0.0,0.301,-6.04,0.0319,77.962,4,0.624
+141,Lovin' On You,What You See Is What You Get,Luke Combs,2019-11-08,194866,70,0.572,0.00165,0.949,0.000195,0.163,-4.865,0.06,118.974,4,0.53
+142,Moon Over Mexico,What You See Is What You Get,Luke Combs,2019-11-08,204640,63,0.493,0.456,0.772,3.2e-06,0.107,-5.875,0.0452,140.996,4,0.472
+143,"1, 2 Many",What You See Is What You Get,Luke Combs,2019-11-08,180906,71,0.54,0.0397,0.821,0.0,0.423,-3.789,0.0873,148.798,4,0.685
+144,Blue Collar Boys,What You See Is What You Get,Luke Combs,2019-11-08,219920,64,0.531,0.00807,0.813,0.0,0.359,-5.517,0.0327,154.134,4,0.79
+145,New Every Day,What You See Is What You Get,Luke Combs,2019-11-08,199293,59,0.466,0.302,0.7,0.0,0.0798,-5.577,0.0431,77.087,4,0.563
+146,Reasons,What You See Is What You Get,Luke Combs,2019-11-08,224293,61,0.446,0.056,0.851,1.91e-05,0.264,-4.74,0.0416,84.928,4,0.666
+147,Every Little Bit Helps,What You See Is What You Get,Luke Combs,2019-11-08,247826,60,0.552,0.0121,0.876,0.0,0.152,-4.268,0.0437,121.979,4,0.734
+148,Dear Today,What You See Is What You Get,Luke Combs,2019-11-08,219733,60,0.492,0.606,0.21,1.35e-06,0.109,-10.658,0.0359,153.017,4,0.368
+149,What You See Is What You Get,What You See Is What You Get,Luke Combs,2019-11-08,171920,64,0.593,0.0645,0.805,0.0,0.226,-4.892,0.0347,103.949,4,0.848
+150,Does To Me (feat. Eric Church),What You See Is What You Get,Luke Combs,2019-11-08,223320,69,0.616,0.311,0.849,0.0,0.311,-4.897,0.0373,113.065,4,0.638
+151,Angels Workin' Overtime,What You See Is What You Get,Luke Combs,2019-11-08,253786,57,0.639,0.188,0.972,3.6e-05,0.254,-3.993,0.073,129.999,4,0.725
+152,All Over Again,What You See Is What You Get,Luke Combs,2019-11-08,208880,62,0.499,0.00563,0.85,0.0,0.226,-5.372,0.0808,156.964,4,0.563
+153,Nothing Like You,What You See Is What You Get,Luke Combs,2019-11-08,196320,64,0.62,0.355,0.443,0.0,0.108,-7.984,0.028,141.984,4,0.339
+154,Better Together,What You See Is What You Get,Luke Combs,2019-11-08,219573,75,0.552,0.827,0.225,0.0,0.111,-11.501,0.0477,138.002,4,0.67
+155,Six Feet Apart,What You See Is What You Get,Luke Combs,2019-11-08,199068,57,0.565,0.335,0.598,0.0,0.124,-5.894,0.0276,155.814,4,0.449
+156,shut up,Positions (Deluxe),Ariana Grande,2021-02-19,157710,54,0.499,0.801,0.462,0.0,0.0946,-5.308,0.0312,127.698,4,0.599
+157,34+35,Positions (Deluxe),Ariana Grande,2021-02-19,173710,56,0.83,0.237,0.585,0.0,0.248,-6.476,0.094,109.978,4,0.485
+158,motive (with Doja Cat),Positions (Deluxe),Ariana Grande,2021-02-19,167989,59,0.789,0.0681,0.742,0.0,0.166,-5.664,0.0652,116.965,4,0.661
+159,just like magic,Positions (Deluxe),Ariana Grande,2021-02-19,149900,55,0.719,0.08,0.607,0.0,0.125,-5.156,0.165,128.006,4,0.464
+160,off the table (with The Weeknd),Positions (Deluxe),Ariana Grande,2021-02-19,239949,54,0.411,0.519,0.522,0.0,0.398,-7.295,0.0981,88.332,1,0.382
+161,six thirty,Positions (Deluxe),Ariana Grande,2021-02-19,183874,53,0.739,0.67,0.516,0.0,0.151,-7.154,0.0539,120.109,4,0.434
+162,safety net (feat. Ty Dolla $ign),Positions (Deluxe),Ariana Grande,2021-02-19,208457,54,0.552,0.0703,0.599,0.0,0.0986,-5.75,0.0404,161.884,4,0.0916
+163,my hair,Positions (Deluxe),Ariana Grande,2021-02-19,158436,54,0.686,0.0815,0.526,7.75e-06,0.144,-6.842,0.0374,92.013,4,0.372
+164,nasty,Positions (Deluxe),Ariana Grande,2021-02-19,200732,54,0.772,0.0814,0.506,1.1e-05,0.182,-6.558,0.139,127.894,4,0.456
+165,west side,Positions (Deluxe),Ariana Grande,2021-02-19,132278,52,0.688,0.186,0.455,0.0,0.0794,-8.632,0.199,87.865,4,0.557
+166,love language,Positions (Deluxe),Ariana Grande,2021-02-19,179860,52,0.688,0.0686,0.573,0.0,0.0749,-5.03,0.208,110.034,4,0.553
+167,positions,Positions (Deluxe),Ariana Grande,2021-02-19,172324,56,0.737,0.468,0.802,0.0,0.0931,-4.771,0.0878,144.015,4,0.682
+168,obvious,Positions (Deluxe),Ariana Grande,2021-02-19,146958,53,0.624,0.0967,0.672,0.0,0.155,-5.334,0.106,159.852,4,0.26
+169,pov,Positions (Deluxe),Ariana Grande,2021-02-19,201882,56,0.487,0.36,0.534,0.0,0.1,-5.664,0.0555,131.798,4,0.173
+170,someone like u - interlude,Positions (Deluxe),Ariana Grande,2021-02-19,76742,55,0.639,0.175,0.544,2.44e-05,0.14,-9.5,0.0383,118.158,4,0.179
+171,test drive,Positions (Deluxe),Ariana Grande,2021-02-19,122174,67,0.698,0.0251,0.708,0.0,0.124,-4.943,0.0454,115.036,4,0.322
+172,"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",Positions (Deluxe),Ariana Grande,2021-02-19,182437,69,0.659,0.211,0.662,0.0,0.228,-5.768,0.434,109.957,4,0.704
+173,worst behavior,Positions (Deluxe),Ariana Grande,2021-02-19,124281,63,0.726,0.37,0.667,0.0,0.118,-5.956,0.0617,100.053,4,0.434
+174,main thing,Positions (Deluxe),Ariana Grande,2021-02-19,129080,59,0.734,0.317,0.475,1.41e-06,0.113,-7.77,0.0403,134.119,4,0.217
+175,Future Nostalgia,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,184881,65,0.875,0.00618,0.813,0.0,0.321,-4.502,0.0579,114.993,4,0.859
+176,Don't Start Now,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,183290,72,0.793,0.0123,0.793,0.0,0.0951,-4.521,0.083,123.95,4,0.679
+177,Cool,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,209583,65,0.469,0.133,0.785,1.55e-06,0.0931,-4.015,0.0664,89.719,4,0.79
+178,Physical,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,193829,70,0.647,0.0137,0.844,0.000658,0.102,-3.756,0.0457,146.967,4,0.746
+179,Levitating,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,203807,63,0.695,0.0561,0.884,0.0,0.213,-2.278,0.0753,103.014,4,0.914
+180,Pretty Please,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,194607,67,0.906,0.0311,0.474,5.5e-06,0.286,-6.124,0.194,106.976,4,0.656
+181,Hallucinate,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,208505,68,0.627,0.033,0.69,0.0,0.0742,-5.396,0.139,122.053,4,0.627
+182,Love Again,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,258004,76,0.659,0.00173,0.667,2.85e-05,0.1,-4.668,0.0339,115.982,4,0.468
+183,Break My Heart,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,221820,70,0.73,0.167,0.729,1.39e-06,0.349,-3.434,0.0884,113.011,4,0.467
+184,Good In Bed,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,218754,65,0.68,0.138,0.701,0.000191,0.168,-5.001,0.0917,94.06,4,0.649
+185,Boys Will Be Boys,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,166266,63,0.768,0.408,0.486,0.0,0.098,-5.954,0.0353,125.021,4,0.519
+186,Fever,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,156910,66,0.868,0.0597,0.693,0.00399,0.106,-7.052,0.181,114.999,4,0.396
+187,We're Good,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,165506,78,0.722,0.0319,0.588,0.0,0.183,-5.932,0.0544,134.01,4,0.59
+188,Prisoner (feat. Dua Lipa),Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,169338,67,0.769,0.0109,0.659,0.0,0.0709,-3.899,0.0442,127.992,4,0.586
+189,If It Ain't Me,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,195351,67,0.809,0.0185,0.623,8.77e-05,0.0538,-6.254,0.145,114.986,4,0.57
+190,That Kind Of Woman,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,200108,64,0.64,0.0045,0.665,0.0,0.22,-4.966,0.0325,113.213,4,0.42
+191,Not My Problem (feat. JID),Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,143176,61,0.695,0.442,0.732,0.0,0.428,-3.308,0.317,107.926,4,0.802
+192,Levitating (feat. DaBaby),Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,203064,71,0.702,0.00883,0.825,0.0,0.0674,-3.787,0.0601,102.977,4,0.915
+193,Un Día (One Day),Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,231815,65,0.572,0.00547,0.634,0.0,0.129,-10.599,0.0617,168.136,4,0.432
+194,Get Ugly,My Turn (Deluxe),Lil Baby,2020-05-01,155832,49,0.68,0.177,0.414,0.0,0.178,-6.944,0.223,148.029,4,0.0734
+195,Heatin Up (feat. Gunna),My Turn (Deluxe),Lil Baby,2020-05-01,177314,53,0.788,0.0612,0.436,0.0,0.0979,-9.435,0.364,129.852,4,0.341
+196,How,My Turn (Deluxe),Lil Baby,2020-05-01,181999,51,0.582,0.00168,0.487,0.0,0.0941,-8.208,0.455,80.325,4,0.308
+197,Grace (feat. 42 Dugg),My Turn (Deluxe),Lil Baby,2020-05-01,203438,51,0.824,0.384,0.513,0.0,0.109,-6.263,0.36,123.026,4,0.179
+198,Woah,My Turn (Deluxe),Lil Baby,2020-05-01,183011,53,0.884,0.0177,0.599,0.0,0.179,-5.551,0.248,142.978,4,0.413
+199,Live Off My Closet (feat. Future),My Turn (Deluxe),Lil Baby,2020-05-01,173061,48,0.807,0.0345,0.678,0.0,0.0986,-3.243,0.177,147.004,4,0.21
+200,Same Thing,My Turn (Deluxe),Lil Baby,2020-05-01,162791,46,0.902,0.0389,0.85,0.0,0.0838,-6.39,0.358,120.13,5,0.556
+201,Emotionally Scarred,My Turn (Deluxe),Lil Baby,2020-05-01,197529,54,0.585,0.0286,0.641,0.0,0.316,-4.269,0.133,88.284,4,0.266
+202,Commercial (feat. Lil Uzi Vert),My Turn (Deluxe),Lil Baby,2020-05-01,214214,51,0.892,0.0481,0.486,0.0,0.146,-8.636,0.384,120.995,4,0.529
+203,Forever (feat. Lil Wayne),My Turn (Deluxe),Lil Baby,2020-05-01,201615,45,0.619,0.0799,0.668,0.0,0.122,-2.115,0.271,76.514,4,0.147
+204,Can't Explain,My Turn (Deluxe),Lil Baby,2020-05-01,181341,44,0.642,0.0365,0.372,0.0,0.149,-10.201,0.582,160.006,4,0.119
+205,No Sucker (feat. Moneybagg Yo),My Turn (Deluxe),Lil Baby,2020-05-01,188606,49,0.9,0.025,0.846,0.0,0.204,-4.884,0.224,129.966,4,0.85
+206,Sum 2 Prove,My Turn (Deluxe),Lil Baby,2020-05-01,205760,54,0.827,0.0169,0.552,0.0,0.122,-7.571,0.274,124.011,4,0.408
+207,We Should (feat. Young Thug),My Turn (Deluxe),Lil Baby,2020-05-01,176539,44,0.562,0.326,0.604,0.0,0.416,-7.498,0.197,83.356,4,0.562
+208,"Catch The Sun - From ""Queen & Slim: The Soundtrack""",My Turn (Deluxe),Lil Baby,2020-05-01,182329,46,0.472,0.117,0.65,0.0,0.14,-6.676,0.126,82.563,4,0.11
+209,Consistent,My Turn (Deluxe),Lil Baby,2020-05-01,181011,45,0.817,0.00434,0.439,0.0,0.282,-7.635,0.506,149.967,4,0.215
+210,Gang Signs,My Turn (Deluxe),Lil Baby,2020-05-01,169782,44,0.819,0.0145,0.793,0.0,0.362,-5.77,0.0975,85.005,4,0.531
+211,Hurtin,My Turn (Deluxe),Lil Baby,2020-05-01,163652,44,0.813,0.0624,0.422,1.41e-06,0.137,-8.788,0.342,93.877,4,0.159
+212,Forget That (feat. Rylo Rodriguez),My Turn (Deluxe),Lil Baby,2020-05-01,167171,51,0.897,0.0498,0.574,6.38e-06,0.122,-8.017,0.406,150.086,4,0.769
+213,Solid,My Turn (Deluxe),Lil Baby,2020-05-01,185853,44,0.825,0.0166,0.589,1.57e-06,0.135,-6.875,0.452,156.037,4,0.339
+214,Social Distancing,My Turn (Deluxe),Lil Baby,2020-05-01,137826,57,0.849,0.0471,0.64,0.0,0.321,-5.15,0.196,126.005,4,0.36
+215,All In,My Turn (Deluxe),Lil Baby,2020-05-01,156032,56,0.837,0.0762,0.663,0.0,0.0941,-6.434,0.334,95.081,4,0.293
+216,Low Down,My Turn (Deluxe),Lil Baby,2020-05-01,144651,66,0.962,0.0354,0.619,0.0,0.083,-5.562,0.405,127.958,4,0.154
+217,Humble,My Turn (Deluxe),Lil Baby,2020-05-01,191583,60,0.554,0.17,0.614,0.0,0.267,-5.715,0.44,80.028,4,0.372
+218,Get Money,My Turn (Deluxe),Lil Baby,2020-05-01,167915,53,0.559,0.0342,0.684,0.0,0.162,-6.009,0.232,150.059,4,0.249
+219,We Paid (feat. 42 Dugg),My Turn (Deluxe),Lil Baby,2020-05-01,181929,74,0.926,0.135,0.542,0.0,0.0877,-5.064,0.293,135.14,4,0.564

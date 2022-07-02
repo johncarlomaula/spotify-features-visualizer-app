@@ -1,0 +1,14 @@
+1. Adele: dataset containing Adele's discography 
+
+2. Drake: dataset containing Drake's discography
+
+3. ABBA: dataset containing ABBA's discography
+
+4. Pop Girlies: dataset containing discographies of Adele, Ariana Grande, Billie Eilish, Carly Rae Jepsen, Katy Perry, Lady Gaga, and Taylor Swift
+
+5. Top 10 Billboard 200 Year-End Albums 2021: dataset containing the Top 10 Billboard 200 Year-End Albums of 2021
+
+6. Top 15 Billboard 200 All-Time Albums: dataset containing the top 15 albums in the Billboard 200 All-Time chart. 
+    Note: this dataset only contains 14 albums due to the album "Ropin' the Wind" by Garth Brooks being unavailable on Spotify
+
+7. Top 50 Rolling Stone Albums of 2010's: dataset containing Top 50 albums of the Top 100 Best Albums of the 2010's by Rolling Stone

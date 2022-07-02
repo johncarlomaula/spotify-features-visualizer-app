@@ -1,0 +1,207 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence
+0,Rolling in the Deep,21,Adele,2011-01-24,228093,79,0.73,0.138,0.769,0.0,0.0473,-5.114,0.0298,104.948,4,0.507
+1,Rumour Has It,21,Adele,2011-01-24,223266,67,0.612,0.615,0.749,0.0,0.167,-5.014,0.0446,120.052,4,0.574
+2,Turning Tables,21,Adele,2011-01-24,250000,65,0.353,0.95,0.446,1.35e-05,0.132,-6.044,0.0285,155.476,4,0.211
+3,Don't You Remember,21,Adele,2011-01-24,243200,65,0.644,0.214,0.4,0.0,0.0866,-5.713,0.0304,115.025,4,0.227
+4,Set Fire to the Rain,21,Adele,2011-01-24,242973,77,0.603,0.00408,0.67,1.68e-06,0.112,-3.882,0.0249,107.993,4,0.446
+5,He Won't Go,21,Adele,2011-01-24,278040,55,0.706,0.0225,0.57,0.0,0.0754,-7.045,0.086,159.908,4,0.728
+6,Take It All,21,Adele,2011-01-24,228293,55,0.415,0.957,0.266,1.18e-06,0.183,-8.44,0.0308,138.096,4,0.282
+7,I'll Be Waiting,21,Adele,2011-01-24,241351,52,0.547,0.049,0.848,0.0,0.114,-2.684,0.0367,160.063,4,0.749
+8,One And Only,21,Adele,2011-01-24,348226,66,0.528,0.295,0.468,0.0,0.165,-5.306,0.0287,154.974,3,0.185
+9,Lovesong,21,Adele,2011-01-24,316240,57,0.689,0.693,0.369,0.00236,0.111,-9.407,0.0278,116.885,4,0.361
+10,Someone Like You,21,Adele,2011-01-24,285240,79,0.556,0.893,0.319,0.0,0.0996,-8.251,0.0281,135.187,4,0.294
+11,Prelude / The Sound Of Music - Medley,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,166693,48,0.243,0.857,0.21,0.0,0.358,-15.848,0.0395,94.998,4,0.149
+12,Overture / Preludium (Dixit Dominus) - Medley,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,195666,42,0.218,0.847,0.201,0.873,0.334,-14.701,0.0371,88.83,4,0.13
+13,Morning Hymn / Alleluia - Medley,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,124506,40,0.165,0.989,0.0647,0.000579,0.0924,-22.232,0.0523,87.131,3,0.0426
+14,Maria,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,199333,48,0.472,0.888,0.226,0.0,0.196,-13.593,0.204,67.056,4,0.618
+15,I Have Confidence,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,208933,47,0.439,0.821,0.234,0.0,0.318,-13.872,0.0864,75.45,4,0.411
+16,Sixteen Going On Seventeen,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,200000,51,0.488,0.895,0.133,0.0,0.0595,-15.865,0.0362,128.123,4,0.289
+17,My Favorite Things,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,140893,57,0.622,0.87,0.247,0.0,0.14,-12.472,0.0758,114.417,4,0.627
+18,Do-Re-Mi,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,335173,47,0.512,0.844,0.216,0.0,0.32,-12.152,0.0627,127.633,4,0.503
+19,The Sound Of Music,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,133026,50,0.272,0.963,0.0505,8.53e-05,0.0949,-21.689,0.0371,88.203,4,0.155
+20,The Lonely Goatherd,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,192800,52,0.678,0.829,0.255,0.0,0.0902,-11.409,0.0532,100.317,4,0.604
+21,"So Long, Farewell",The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,176400,51,0.548,0.848,0.153,4.09e-05,0.124,-16.398,0.0501,119.842,4,0.359
+22,Climb Ev'ry Mountain,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,138640,45,0.234,0.86,0.295,0.0,0.117,-12.499,0.0361,92.385,1,0.209
+23,Something Good,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,199360,45,0.252,0.953,0.047,0.00194,0.116,-24.887,0.04,77.656,1,0.199
+24,Processional And Maria (The Wedding),The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,149506,40,0.394,0.447,0.257,0.00199,0.114,-9.15,0.0274,100.664,4,0.211
+25,Edelweiss - Reprise,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,112200,50,0.287,0.929,0.127,4.03e-05,0.0841,-15.797,0.0399,123.83,3,0.227
+26,Climb Ev'ry Mountain - Reprise,The Sound Of Music (Original Soundtrack Recording),Rodgers & Hammerstein,1965-01-01,80760,43,0.158,0.875,0.236,0.000924,0.251,-12.446,0.0307,75.419,4,0.321
+27,Wanna Be Startin' Somethin',Thriller,Michael Jackson,1982-11-30,363400,59,0.842,0.0259,0.872,0.419,0.0573,-8.234,0.0455,122.111,4,0.906
+28,Baby Be Mine,Thriller,Michael Jackson,1982-11-30,260666,59,0.843,0.0848,0.483,7.63e-06,0.0741,-10.288,0.095,109.588,4,0.665
+29,The Girl Is Mine (with Paul McCartney),Thriller,Michael Jackson,1982-11-30,222333,57,0.681,0.225,0.527,0.0,0.0989,-10.422,0.0561,81.425,4,0.707
+30,Thriller,Thriller,Michael Jackson,1982-11-30,357800,58,0.771,0.0318,0.687,0.000225,0.89,-9.814,0.0693,118.392,4,0.783
+31,Beat It,Thriller,Michael Jackson,1982-11-30,258399,61,0.776,0.0242,0.711,0.000353,0.234,-9.03,0.0473,138.728,4,0.901
+32,Billie Jean,Thriller,Michael Jackson,1982-11-30,294226,64,0.932,0.0173,0.457,0.0436,0.0414,-9.62,0.0541,117.002,4,0.884
+33,Human Nature,Thriller,Michael Jackson,1982-11-30,246040,59,0.628,0.498,0.409,0.00565,0.29,-14.348,0.0306,93.005,4,0.755
+34,P.Y.T. (Pretty Young Thing),Thriller,Michael Jackson,1982-11-30,239026,60,0.894,0.172,0.67,0.000363,0.0691,-9.406,0.0474,127.209,4,0.961
+35,The Lady in My Life,Thriller,Michael Jackson,1982-11-30,300106,58,0.662,0.369,0.344,0.000109,0.0589,-13.93,0.0487,146.016,4,0.436
+36,Fearless,Fearless,Taylor Swift,2008-11-11,241986,55,0.594,0.04,0.712,0.0,0.309,-4.418,0.0273,99.972,4,0.476
+37,Fifteen,Fearless,Taylor Swift,2008-11-11,294333,56,0.556,0.067,0.651,0.0,0.145,-4.396,0.0266,95.485,4,0.203
+38,Love Story,Fearless,Taylor Swift,2008-11-11,235266,69,0.618,0.17,0.741,0.0,0.0822,-3.95,0.031,118.984,4,0.296
+39,Hey Stephen,Fearless,Taylor Swift,2008-11-11,254306,49,0.841,0.194,0.544,2.48e-06,0.108,-7.347,0.0309,115.994,4,0.831
+40,White Horse,Fearless,Taylor Swift,2008-11-11,234426,55,0.578,0.305,0.34,0.0,0.104,-8.027,0.0264,92.702,4,0.223
+41,You Belong With Me,Fearless,Taylor Swift,2008-11-11,231133,71,0.687,0.162,0.783,1.35e-05,0.114,-4.44,0.0386,129.964,4,0.443
+42,Breathe,Fearless,Taylor Swift,2008-11-11,263973,45,0.505,0.379,0.482,0.0,0.113,-7.372,0.0276,73.975,4,0.184
+43,Tell Me Why,Fearless,Taylor Swift,2008-11-11,200546,44,0.604,0.0571,0.855,3.65e-06,0.343,-3.097,0.038,99.96,4,0.51
+44,You're Not Sorry,Fearless,Taylor Swift,2008-11-11,261786,47,0.475,0.146,0.452,1.36e-06,0.108,-4.134,0.027,133.959,4,0.276
+45,The Way I Loved You,Fearless,Taylor Swift,2008-11-11,244226,57,0.433,0.0408,0.7,0.0,0.115,-3.709,0.0336,160.927,4,0.398
+46,Forever & Always,Fearless,Taylor Swift,2008-11-11,225320,50,0.608,0.0752,0.821,0.0,0.11,-4.985,0.0576,128.042,4,0.544
+47,The Best Day,Fearless,Taylor Swift,2008-11-11,245333,47,0.666,0.647,0.434,1.95e-06,0.124,-8.543,0.0289,126.084,4,0.396
+48,Change,Fearless,Taylor Swift,2008-11-11,280240,42,0.541,0.00408,0.77,0.0,0.117,-4.17,0.0354,96.013,4,0.215
+49,Born in the U.S.A.,Born In The U.S.A.,Bruce Springsteen,1984-06-04,278680,76,0.398,0.000373,0.952,7.75e-05,0.1,-6.042,0.061,122.093,4,0.584
+50,Cover Me,Born In The U.S.A.,Bruce Springsteen,1984-06-04,205986,57,0.535,0.00188,0.884,0.00126,0.14,-5.499,0.0407,120.555,4,0.796
+51,Darlington County,Born In The U.S.A.,Bruce Springsteen,1984-06-04,288026,50,0.536,0.0141,0.982,3.67e-05,0.274,-4.674,0.0389,119.201,4,0.963
+52,Working on the Highway,Born In The U.S.A.,Bruce Springsteen,1984-06-04,192266,50,0.429,0.0842,0.949,0.0,0.154,-5.295,0.0458,184.286,4,0.967
+53,Downbound Train,Born In The U.S.A.,Bruce Springsteen,1984-06-04,215426,54,0.544,0.0585,0.762,0.0,0.074,-7.289,0.0382,120.023,4,0.473
+54,I'm On Fire,Born In The U.S.A.,Bruce Springsteen,1984-06-04,155880,75,0.62,0.589,0.446,0.0299,0.0727,-14.451,0.0347,88.591,4,0.868
+55,No Surrender,Born In The U.S.A.,Bruce Springsteen,1984-06-04,240146,54,0.351,0.00382,0.947,1.81e-06,0.559,-4.965,0.0503,153.762,4,0.859
+56,Bobby Jean,Born In The U.S.A.,Bruce Springsteen,1984-06-04,226720,51,0.521,0.000265,0.949,2.62e-05,0.171,-5.279,0.0326,133.393,4,0.956
+57,I'm Goin' Down,Born In The U.S.A.,Bruce Springsteen,1984-06-04,209040,59,0.579,0.117,0.948,1.19e-06,0.121,-5.908,0.0535,132.812,4,0.811
+58,Glory Days,Born In The U.S.A.,Bruce Springsteen,1984-06-04,254733,72,0.574,0.0457,0.96,0.0,0.121,-4.906,0.032,117.486,4,0.978
+59,Dancing In the Dark,Born In The U.S.A.,Bruce Springsteen,1984-06-04,241306,79,0.527,0.0115,0.942,0.0,0.188,-5.64,0.0366,148.723,4,0.495
+60,My Hometown,Born In The U.S.A.,Bruce Springsteen,1984-06-04,279666,63,0.652,0.486,0.338,5.9e-05,0.0744,-11.58,0.0367,116.881,4,0.392
+61,All I Really Want,Jagged Little Pill,Alanis Morissette,1995-06-09,284640,42,0.551,0.00638,0.856,0.0,0.148,-9.224,0.172,93.082,4,0.386
+62,You Oughta Know,Jagged Little Pill,Alanis Morissette,1995-06-09,249200,57,0.66,0.204,0.831,0.0,0.736,-8.195,0.0557,105.32,4,0.43
+63,Perfect,Jagged Little Pill,Alanis Morissette,1995-06-09,187893,36,0.391,0.534,0.284,0.0,0.131,-11.173,0.0306,169.755,4,0.0809
+64,Hand in My Pocket,Jagged Little Pill,Alanis Morissette,1995-06-09,221706,49,0.656,0.0625,0.588,0.0017,0.0966,-9.836,0.0247,92.276,4,0.705
+65,Right Through You,Jagged Little Pill,Alanis Morissette,1995-06-09,175826,37,0.386,0.101,0.733,0.0,0.105,-6.766,0.0769,108.346,5,0.375
+66,Forgiven,Jagged Little Pill,Alanis Morissette,1995-06-09,300266,35,0.4,0.0416,0.683,0.0,0.0892,-7.405,0.0446,160.48,4,0.255
+67,You Learn,Jagged Little Pill,Alanis Morissette,1995-06-09,239640,43,0.397,0.00167,0.668,0.0,0.0944,-8.476,0.0408,168.056,4,0.44
+68,Head Over Feet,Jagged Little Pill,Alanis Morissette,1995-06-09,265040,46,0.421,0.016,0.78,0.0,0.181,-8.711,0.0685,79.883,4,0.423
+69,Mary Jane,Jagged Little Pill,Alanis Morissette,1995-06-09,280626,34,0.249,0.559,0.491,3.77e-05,0.0935,-8.848,0.0335,99.466,3,0.192
+70,Ironic,Jagged Little Pill,Alanis Morissette,1995-06-09,225933,57,0.495,0.246,0.595,0.0,0.236,-7.57,0.0443,85.341,4,0.392
+71,Not the Doctor,Jagged Little Pill,Alanis Morissette,1995-06-09,227600,35,0.602,0.0547,0.61,0.0,0.0914,-10.162,0.082,89.315,4,0.63
+72,Wake Up,Jagged Little Pill,Alanis Morissette,1995-06-09,293800,31,0.53,0.00405,0.793,0.0,0.275,-9.097,0.0444,95.347,4,0.447
+73,You Oughta Know - Jimmy the Saint Blend,Jagged Little Pill,Alanis Morissette,1995-06-09,492960,31,0.612,0.368,0.514,0.0,0.449,-7.988,0.301,104.981,4,0.144
+74,Follow You Home,All the Right Reasons,Nickelback,2005-09-26,260333,44,0.568,1.04e-05,0.932,0.0991,0.0664,-3.671,0.0522,140.11,4,0.668
+75,Fight for All the Wrong Reasons,All the Right Reasons,Nickelback,2005-09-26,224280,44,0.455,4.42e-05,0.922,0.000663,0.067,-4.499,0.0401,169.819,4,0.748
+76,Photograph,All the Right Reasons,Nickelback,2005-09-26,258920,69,0.515,0.000932,0.876,0.000166,0.136,-3.756,0.0292,145.916,4,0.385
+77,Animals,All the Right Reasons,Nickelback,2005-09-26,186600,62,0.572,0.000734,0.961,0.021,0.207,-3.089,0.0625,76.998,4,0.818
+78,Savin' Me,All the Right Reasons,Nickelback,2005-09-26,219320,67,0.441,0.000731,0.815,0.0,0.414,-4.088,0.0276,164.007,4,0.522
+79,Far Away,All the Right Reasons,Nickelback,2005-09-26,238173,72,0.518,0.000681,0.797,0.0,0.107,-5.153,0.0309,132.918,4,0.293
+80,Next Contestant,All the Right Reasons,Nickelback,2005-09-26,214706,52,0.557,0.000416,0.862,0.000314,0.0577,-4.029,0.0636,174.114,4,0.531
+81,Side of a Bullet,All the Right Reasons,Nickelback,2005-09-26,180560,41,0.645,0.000308,0.946,0.0969,0.0226,-2.486,0.0669,132.962,4,0.849
+82,If Everyone Cared,All the Right Reasons,Nickelback,2005-09-26,218013,50,0.519,0.000246,0.85,0.014,0.279,-4.678,0.0354,132.022,4,0.211
+83,Someone That You're With,All the Right Reasons,Nickelback,2005-09-26,241720,42,0.48,0.000247,0.956,0.00155,0.0425,-2.649,0.0765,75.99,3,0.651
+84,Rockstar,All the Right Reasons,Nickelback,2005-09-26,255520,49,0.618,0.0522,0.908,0.0,0.313,-3.369,0.0402,144.081,4,0.712
+85,I Feel the Earth Move,Tapestry,Carole King,1971,178560,64,0.711,0.648,0.576,0.00226,0.0528,-8.784,0.0305,120.117,4,0.644
+86,So Far Away,Tapestry,Carole King,1971,235626,59,0.49,0.897,0.172,3.32e-05,0.0753,-14.251,0.0372,143.837,4,0.361
+87,It's Too Late,Tapestry,Carole King,1971,233173,68,0.45,0.493,0.442,0.00564,0.134,-12.718,0.0353,208.282,4,0.812
+88,Home Again,Tapestry,Carole King,1971,149053,49,0.505,0.861,0.255,0.00389,0.0782,-12.558,0.0352,140.344,4,0.623
+89,Beautiful,Tapestry,Carole King,1971,186906,51,0.66,0.843,0.341,1.33e-05,0.109,-11.175,0.0284,77.066,4,0.497
+90,Way over Yonder,Tapestry,Carole King,1971,283826,45,0.489,0.755,0.256,1.01e-05,0.146,-11.819,0.0322,89.234,3,0.172
+91,You've Got a Friend,Tapestry,Carole King,1971,308973,66,0.473,0.88,0.263,4.41e-05,0.123,-10.684,0.0336,169.094,4,0.461
+92,Where You Lead,Tapestry,Carole King,1971,200146,62,0.784,0.763,0.459,1.29e-06,0.0684,-10.446,0.0304,106.958,4,0.931
+93,Will You Love Me Tomorrow?,Tapestry,Carole King,1971,252440,53,0.403,0.79,0.329,0.000384,0.102,-12.847,0.0314,159.443,4,0.243
+94,Smackwater Jack,Tapestry,Carole King,1971,221880,44,0.656,0.447,0.552,0.000269,0.0822,-8.882,0.0314,125.796,4,0.77
+95,Tapestry,Tapestry,Carole King,1971,193893,45,0.379,0.931,0.203,3.31e-06,0.222,-11.66,0.0373,67.135,4,0.344
+96,(You Make Me Feel Like) A Natural Woman,Tapestry,Carole King,1971,229066,57,0.624,0.953,0.158,0.00135,0.112,-13.059,0.0289,85.492,3,0.303
+97,Overture,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,264400,20,0.357,0.85,0.361,0.434,0.157,-19.095,0.0588,111.62,4,0.294
+98,Doctor Zhivago (Main Title),Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,160840,33,0.138,0.69,0.18,0.42,0.108,-21.1,0.0349,100.855,4,0.241
+99,Kontakion / Funeral Song,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,196800,19,0.15,0.947,0.195,0.000552,0.142,-23.583,0.0546,175.08,3,0.0365
+100,Lara Is Charming,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,74893,25,0.182,0.761,0.159,7.14e-06,0.696,-17.619,0.0344,83.944,3,0.516
+101,The Internationale,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,71333,14,0.368,0.986,0.125,0.0,0.544,-19.965,0.0358,93.416,1,0.485
+102,Lara and Komarovsky Dancing Up a Storm,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,42640,14,0.402,0.861,0.275,1.11e-05,0.105,-16.523,0.0524,119.45,3,0.56
+103,Komarovsky With Lara In the Hotel,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,233826,13,0.313,0.733,0.111,0.424,0.181,-17.792,0.038,121.733,4,0.0491
+104,Interior Student Cafe,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,96333,31,0.385,0.672,0.242,0.0747,0.156,-12.109,0.0279,95.167,3,0.529
+105,Sventitsky's Waltz / After the shooting,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,137706,17,0.238,0.761,0.127,0.155,0.583,-17.261,0.0344,65.91,4,0.38
+106,Military Parade,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,129933,12,0.273,0.878,0.0339,0.916,0.111,-29.714,0.0491,83.198,3,0.334
+107,They Began to Go Home,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,125426,11,0.323,0.741,0.38,0.912,0.255,-15.515,0.053,109.332,3,0.0403
+108,After Deserters Killed the Colonel,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,64506,11,0.119,0.812,0.338,0.682,0.152,-18.535,0.04,168.654,3,0.126
+109,At the Hospital,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,58466,11,0.11,0.923,0.158,0.906,0.103,-28.333,0.0401,155.172,5,0.357
+110,Lara Says Goodbye to Yuri (Lara's Theme),Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,88400,38,0.129,0.86,0.241,0.292,0.0635,-17.82,0.0343,90.088,3,0.11
+111,Tonya Greets Yuri,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,44026,12,0.299,0.892,0.251,0.388,0.367,-17.018,0.0359,68.317,5,0.153
+112,The Stove's Out,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,89200,11,0.162,0.937,0.0185,0.69,0.108,-33.526,0.0411,158.987,1,0.0783
+113,Yevgraf Snaps His Fingers,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,190866,10,0.169,0.859,0.0866,0.96,0.0998,-30.763,0.0474,172.676,3,0.124
+114,Evening Bells - Moscow Station,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,62640,13,0.302,0.849,0.347,0.91,0.307,-20.283,0.043,91.862,3,0.122
+115,Flags Flying Over the Train - Outtake,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,66360,11,0.208,0.747,0.102,0.635,0.428,-18.657,0.0442,138.03,4,0.189
+116,Yuri Gazing Through a Tiny Open Hatch,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,36333,10,0.225,0.748,0.239,0.6,0.248,-20.791,0.0356,99.59,3,0.213
+117,The Door Is Banged Opened,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,110533,10,0.186,0.633,0.113,0.33,0.0973,-20.039,0.034,61.19,4,0.0702
+118,Intermission,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,45200,10,0.388,0.788,0.788,0.739,0.348,-11.621,0.0414,67.268,4,0.205
+119,Yuri Follows the Sound of the Waterfall (Lara's Theme),Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,42640,12,0.251,0.932,0.194,0.0574,0.394,-19.905,0.0357,79.069,4,0.378
+120,Tonya and Yuri Arrive At Varykino,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,173826,11,0.371,0.871,0.133,0.00135,0.119,-19.166,0.0407,120.676,4,0.266
+121,They Didn't Lock the Cottage,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,94066,10,0.157,0.958,0.101,0.689,0.156,-21.632,0.036,81.35,4,0.0984
+122,"Varykino Cottage, Winter Snow",Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,56400,10,0.196,0.797,0.0415,0.924,0.0949,-31.278,0.0368,109.272,5,0.088
+123,Yuri and the Daffodils (Lara's Theme),Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,76706,14,0.12,0.886,0.173,0.63,0.223,-16.192,0.0331,87.076,3,0.0927
+124,On a Yuriatin Street,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,93693,14,0.191,0.534,0.363,0.425,0.295,-13.811,0.0333,91.199,3,0.401
+125,In Lara's Bedroom (Lara's Theme),Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,32000,18,0.261,0.549,0.155,0.0274,0.231,-22.029,0.0372,82.724,3,0.457
+126,Yuri Rides to Yuriatin,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,23400,0,0.276,0.773,0.402,0.165,0.329,-13.702,0.0315,90.926,4,0.357
+127,Yuri Is Taken Prisoner By the Red Partisans,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,48440,10,0.463,0.0266,0.157,0.000931,0.207,-17.187,0.0351,116.236,4,0.775
+128,For As Long As We Need You,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,41160,9,0.18,0.00015,0.178,4.93e-05,0.192,-22.963,0.0307,80.679,3,0.0912
+129,Yuri Is Escaping,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,139400,9,0.159,0.77,0.131,0.926,0.255,-23.023,0.0389,85.195,4,0.216
+130,Yuri Approaches Lara's Apartment,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,49533,9,0.162,0.242,0.0383,0.354,0.205,-29.914,0.0375,130.875,4,0.0766
+131,Yuri Looks Into the Mirror,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,31040,9,0.214,0.000215,0.323,0.897,0.0886,-21.461,0.0581,69.341,3,0.0363
+132,Lara and Yuri Arriving at Varykino,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,100800,9,0.231,0.829,0.236,0.0554,0.166,-18.904,0.0338,86.429,4,0.283
+133,Yuri Is Trying To Write,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,80893,9,0.161,0.694,0.089,0.0661,0.185,-24.109,0.0364,108.225,4,0.039
+134,"Yuri Frightens the Wolves Away, Pt. I",Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,48106,9,0.158,0.946,0.184,0.815,0.131,-16.882,0.0349,142.204,5,0.0918
+135,Lara Reads Her Poem,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,38493,16,0.228,0.783,0.29,0.0358,0.593,-15.673,0.034,85.762,4,0.0792
+136,"Yuri Frightens the Wolves Away, Pt. II",Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,114040,9,0.117,0.888,0.135,0.4,0.52,-21.661,0.0399,77.451,4,0.07
+137,Yuri Works On,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,52760,9,0.146,0.893,0.247,0.0133,0.159,-15.785,0.0381,161.662,4,0.184
+138,Then It's a Gift (End Title),Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,106266,31,0.0852,0.601,0.435,0.346,0.588,-13.507,0.0351,168.843,3,0.394
+139,Lara's Theme - Jazz Version,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,117533,19,0.448,0.679,0.17,0.0,0.092,-18.204,0.0298,109.679,4,0.328
+140,Lara's Theme - Rock 'n' Roll Version,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,159266,11,0.592,0.208,0.57,0.0,0.142,-15.243,0.0404,71.635,4,0.934
+141,Lara's Theme - Swing Version,Doctor Zhivago (Original Motion Picture Soundtrack),Maurice Jarre,1965-12-31,75400,13,0.417,0.492,0.308,0.0,0.243,-14.852,0.0372,186.07,3,0.9
+142,You Give Good Love,Whitney Houston,Whitney Houston,1985-02-14,277240,54,0.559,0.686,0.365,0.0,0.0771,-13.654,0.0332,74.802,4,0.534
+143,Thinking About You,Whitney Houston,Whitney Houston,1985-02-14,324360,35,0.856,0.257,0.343,0.0,0.0584,-16.479,0.0617,119.94,4,0.744
+144,Someone For Me,Whitney Houston,Whitney Houston,1985-02-14,298800,34,0.858,0.0757,0.543,0.00953,0.255,-15.417,0.0424,124.12,4,0.927
+145,Saving All My Love for You,Whitney Houston,Whitney Houston,1985-02-14,238466,67,0.636,0.593,0.264,4.22e-05,0.275,-14.567,0.0263,99.304,3,0.264
+146,Nobody Loves Me Like You Do (with Jermaine Jackson),Whitney Houston,Whitney Houston,1985-02-14,228093,41,0.388,0.683,0.177,8.97e-06,0.261,-17.819,0.0325,124.444,4,0.106
+147,How Will I Know,Whitney Houston,Whitney Houston,1985-02-14,275533,71,0.832,0.201,0.544,0.000139,0.632,-12.697,0.0442,119.49,4,0.928
+148,All at Once,Whitney Houston,Whitney Houston,1985-02-14,268600,58,0.58,0.539,0.325,0.0,0.135,-16.16,0.0294,132.548,4,0.342
+149,Take Good Care of My Heart (with Jermaine Jackson),Whitney Houston,Whitney Houston,1985-02-14,255800,43,0.71,0.212,0.591,2.05e-06,0.181,-14.566,0.04,112.078,4,0.841
+150,Greatest Love of All,Whitney Houston,Whitney Houston,1985-02-14,291400,68,0.502,0.484,0.305,3.55e-06,0.117,-16.011,0.0339,131.242,4,0.248
+151,Hold Me (with Teddy Pendergrass),Whitney Houston,Whitney Houston,1985-02-14,360733,50,0.537,0.379,0.263,2.81e-06,0.162,-17.92,0.0291,116.094,4,0.21
+152,Just Dance,The Fame,Lady Gaga,2008-01-01,241933,75,0.822,0.0264,0.739,4.26e-05,0.181,-4.541,0.0311,118.992,4,0.745
+153,LoveGame,The Fame,Lady Gaga,2008-01-01,216333,68,0.894,0.00569,0.678,2.43e-06,0.317,-5.611,0.0523,105.024,4,0.844
+154,Paparazzi,The Fame,Lady Gaga,2008-01-01,208306,69,0.762,0.113,0.692,0.0,0.094,-3.973,0.0438,114.906,4,0.397
+155,Poker Face,The Fame,Lady Gaga,2008-01-01,237200,76,0.851,0.118,0.806,1.64e-06,0.121,-4.62,0.0787,118.999,4,0.787
+156,"Eh, Eh (Nothing Else I Can Say)",The Fame,Lady Gaga,2008-01-01,175360,49,0.68,0.246,0.876,0.000187,0.0788,-3.646,0.0577,187.785,4,0.816
+157,"Beautiful, Dirty, Rich",The Fame,Lady Gaga,2008-01-01,172413,51,0.782,0.017,0.906,0.0503,0.293,-5.229,0.152,120.064,4,0.697
+158,The Fame,The Fame,Lady Gaga,2008-01-01,222106,49,0.816,0.0296,0.694,1.48e-05,0.035,-3.325,0.0504,127.021,4,0.966
+159,Money Honey,The Fame,Lady Gaga,2008-01-01,170293,45,0.775,0.0132,0.756,0.000302,0.0775,-3.231,0.0476,119.004,4,0.831
+160,Starstruck,The Fame,Lady Gaga,2008-01-01,217120,52,0.876,0.0208,0.631,0.0,0.062,-5.939,0.143,102.992,4,0.509
+161,Boys Boys Boys,The Fame,Lady Gaga,2008-01-01,200813,48,0.725,0.0144,0.662,0.0,0.0996,-5.068,0.0404,122.989,4,0.814
+162,Paper Gangsta,The Fame,Lady Gaga,2008-01-01,263360,45,0.752,0.0502,0.84,1.07e-06,0.227,-5.047,0.0786,98.969,4,0.574
+163,Brown Eyes,The Fame,Lady Gaga,2008-01-01,243000,43,0.747,0.126,0.508,6.75e-06,0.0842,-4.764,0.0314,125.072,4,0.595
+164,I Like It Rough,The Fame,Lady Gaga,2008-01-01,202493,43,0.719,0.121,0.896,2.47e-05,0.138,-4.104,0.0413,120.008,4,0.8
+165,Summerboy,The Fame,Lady Gaga,2008-01-01,253946,49,0.734,0.00307,0.77,0.0,0.0824,-4.775,0.0324,104.999,4,0.686
+166,Disco Heaven,The Fame,Lady Gaga,2008-01-01,221480,40,0.752,0.0388,0.946,0.000121,0.312,-3.398,0.0802,127.983,4,0.907
+167,A Taste Of Honey,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,163746,51,0.552,0.771,0.423,0.881,0.111,-11.109,0.0365,80.871,4,0.495
+168,Green Peppers,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,91840,39,0.679,0.642,0.519,0.302,0.249,-11.52,0.0574,155.062,4,0.516
+169,Tangerine,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,166253,41,0.749,0.712,0.223,0.976,0.0924,-17.295,0.035,101.386,4,0.68
+170,Bittersweet Samba,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,103173,35,0.818,0.476,0.781,0.68,0.243,-9.25,0.0603,99.996,4,0.945
+171,Lemon Tree,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,143386,35,0.518,0.53,0.268,0.891,0.109,-16.069,0.026,97.551,4,0.497
+172,Whipped Cream,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,154440,42,0.762,0.243,0.498,0.92,0.0747,-10.415,0.0484,147.836,4,0.964
+173,Love Potion No. 9,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,180933,36,0.556,0.584,0.656,0.802,0.313,-9.118,0.0288,93.784,4,0.666
+174,El Garbanzo,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,132840,29,0.599,0.0941,0.628,0.924,0.21,-11.425,0.0288,145.556,4,0.961
+175,Ladyfingers,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,164546,60,0.347,0.979,0.299,0.93,0.178,-14.462,0.0401,86.15,4,0.556
+176,Butterball,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,132720,30,0.674,0.389,0.611,0.24,0.0811,-9.035,0.0313,141.174,4,0.897
+177,Peanuts,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,129720,29,0.847,0.794,0.528,0.822,0.22,-10.787,0.0637,107.982,4,0.99
+178,Lollipops And Roses,Whipped Cream & Other Delights,Herb Alpert & The Tijuana Brass,1965-04-01,148813,36,0.679,0.547,0.528,0.939,0.318,-10.346,0.0299,89.794,4,0.849
+179,Man! I Feel Like A Woman!,Come On Over,Shania Twain,1997-11-04,234493,78,0.657,0.581,0.639,0.0,0.278,-7.527,0.0412,124.882,4,0.674
+180,I'm Holdin' On To Love (To Save My Life),Come On Over,Shania Twain,1997-11-04,206773,46,0.598,0.179,0.815,0.0,0.336,-7.535,0.0487,156.788,4,0.927
+181,Love Gets Me Every Time,Come On Over,Shania Twain,1997-11-04,213826,51,0.737,0.264,0.693,1.1e-06,0.273,-7.045,0.0273,123.055,4,0.962
+182,Don't Be Stupid (You Know I Love You),Come On Over,Shania Twain,1997-11-04,214240,55,0.773,0.261,0.641,0.0,0.548,-6.742,0.0318,122.025,4,0.903
+183,From This Moment On,Come On Over,Shania Twain,1997-11-04,281533,66,0.305,0.483,0.323,0.0,0.107,-9.396,0.0284,135.803,4,0.103
+184,Come On Over,Come On Over,Shania Twain,1997-11-04,174026,49,0.635,0.166,0.852,0.0,0.309,-6.463,0.0516,76.498,4,0.966
+185,When,Come On Over,Shania Twain,1997-11-04,219173,46,0.627,0.1,0.658,0.0,0.424,-6.562,0.034,119.997,4,0.808
+186,Whatever You Do! Don't!,Come On Over,Shania Twain,1997-11-04,228826,46,0.7,0.104,0.666,0.0,0.0843,-7.849,0.0275,121.005,4,0.462
+187,"If You Wanna Touch Her, Ask!",Come On Over,Shania Twain,1997-11-04,243948,40,0.73,0.121,0.647,0.0,0.208,-6.753,0.0352,106.938,4,0.934
+188,You're Still The One,Come On Over,Shania Twain,1997-11-04,212200,77,0.585,0.363,0.494,0.0,0.0886,-8.751,0.0353,133.822,4,0.634
+189,"Honey, I'm Home",Come On Over,Shania Twain,1997-11-04,215200,63,0.616,0.208,0.723,0.0,0.181,-6.451,0.0913,160.525,4,0.859
+190,That Don't Impress Me Much,Come On Over,Shania Twain,1997-11-04,218866,66,0.757,0.235,0.757,0.0,0.0474,-7.598,0.0389,124.956,4,0.967
+191,"Black Eyes, Blue Tears",Come On Over,Shania Twain,1997-11-04,219693,42,0.669,0.289,0.704,0.0,0.28,-6.345,0.0305,118.772,4,0.691
+192,I Won't Leave You Lonely,Come On Over,Shania Twain,1997-11-04,252240,39,0.674,0.536,0.47,0.000605,0.121,-10.025,0.0285,112.997,4,0.658
+193,Rock This Country!,Come On Over,Shania Twain,1997-11-04,262400,49,0.637,0.252,0.802,0.0,0.228,-5.794,0.0302,129.106,4,0.696
+194,You've Got A Way,Come On Over,Shania Twain,1997-11-04,209760,44,0.577,0.592,0.301,0.0,0.108,-9.857,0.0268,131.967,4,0.203
+195,Second Hand News - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,176306,63,0.696,0.242,0.942,0.00571,0.0524,-5.252,0.136,117.56,4,0.502
+196,Dreams - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,257800,62,0.829,0.0671,0.487,0.00263,0.127,-9.751,0.0278,120.173,4,0.776
+197,Never Going Back Again - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,134400,58,0.642,0.854,0.34,0.475,0.0816,-12.852,0.0394,176.08,4,0.927
+198,Don't Stop - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,193346,73,0.671,0.0393,0.71,1.12e-05,0.0387,-7.724,0.0356,118.745,4,0.834
+199,Go Your Own Way - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,223613,77,0.583,0.0185,0.947,0.00109,0.0679,-5.12,0.0378,135.448,4,0.803
+200,Songbird - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,200813,63,0.58,0.982,0.0842,0.00126,0.11,-15.52,0.0302,92.123,4,0.388
+201,The Chain - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,269813,64,0.522,0.0517,0.755,6.63e-05,0.0781,-6.95,0.0524,151.796,4,0.637
+202,You Make Loving Fun - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,213693,67,0.625,0.0138,0.591,0.0399,0.0893,-9.127,0.0265,126.597,4,0.863
+203,I Don't Want to Know - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,196853,61,0.718,0.0691,0.689,0.00695,0.0685,-7.09,0.028,139.318,4,0.942
+204,Oh Daddy - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,236240,53,0.58,0.522,0.35,7.69e-05,0.134,-10.855,0.0356,137.821,4,0.469
+205,Gold Dust Woman - 2004 Remaster,Rumours,Fleetwood Mac,1977-02-04,295626,64,0.666,0.281,0.608,0.000804,0.466,-9.335,0.0319,123.18,4,0.674
