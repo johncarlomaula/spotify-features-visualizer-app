@@ -7,10 +7,9 @@ import spotipy
 
 # Define constants for the Spotify Developer Account
 # Note: For the purpose of this project, I created a separate Spotify Developer Account.
-
-CLIENT_ID = os.environ['SPOTIFY_CLIENT']
-CLIENT_SECRET = os.environ['SPOTIFY_CLIENT_SECRET']
-USER_NAME = "314ehdfa2g5xubteuw5wulkuapg4"
+CLIENT_ID = st.secrets["spotify_client_id"]
+CLIENT_SECRET = st.secrets["spotify_client_id"]
+USER_NAME = st.secrets["spotify_username"]
 
 # Define function to convert dataframe to a csv file
 @st.cache
