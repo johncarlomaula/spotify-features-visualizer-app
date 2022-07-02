@@ -1,14 +1,13 @@
 # Import required packages
 import streamlit as st
 import pandas as pd
-import os
 from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
 
 # Define constants for the Spotify Developer Account
 # Note: For the purpose of this project, I created a separate Spotify Developer Account.
-CLIENT_ID = os.environ['SPOTIFY_CLIENT']
-CLIENT_SECRET = os.environ['SPOTIFY_CLIENT_SECRET']
+CLIENT_ID = '${{ secrets.SPOTIFY_CLIENT}}'
+CLIENT_SECRET = '${{ secrets.SPOTIFY_CLIENT_SECRET}}'
 USER_NAME = "314ehdfa2g5xubteuw5wulkuapg4"
 
 # Define function to convert dataframe to a csv file
