@@ -1,7 +1,7 @@
 # Spotify Features Visualizer Web App
 **Project Description**: In this project, I develop a web app using `Streamlit` to visualize Spotify features of music. I also developed a separate app that allows the user to retrieve their own Spotify data to use for the visualizer app. Data can be displayed via interactive histograms, box plots, scatterplots, and polar charts with the ability compare artists, albums, and songs.
 
-You can access the app here: [Spotify Features Visualizer App](https://johncarlomaula-spotify-features-visualizer-app-data-1jc4l8.streamlitapp.com)
+You can access the app here: [Spotify Features Visualizer App](https://johncarlomaula-spotify-features-visualizer-app-app-0l4de8.streamlit.app)
 
 To retrieve your own Spotify data, click [here](https://johncarlomaula-spotify-features-visualizer-app-data-1jc4l8.streamlitapp.com).
 
