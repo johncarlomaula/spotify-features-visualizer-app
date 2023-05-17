@@ -114,7 +114,7 @@ elif chart == "Polar Chart":
     albums = st.sidebar.multiselect("Select album(s)", list_of_albums)
 
     # Calculate mean values per album
-    mean_values_df = pd.DataFrame(df_scaled.groupby(['album', 'artist']).mean()).round(3)
+    mean_values_df = pd.DataFrame(df_scaled.drop(['name', 'release_date'], axis = 1).groupby(['album', 'artist']).mean()).round(3)
 
     if albums:
 
@@ -136,7 +136,7 @@ elif chart == "Polar Chart":
                 df_scaled.set_index('name', inplace = True)
 
                 st.markdown("---")
-                st.markdown("### Song")
+                st.markdown("### Track")
 
                 plot_radar_chart(df_scaled, songs, True)
 
